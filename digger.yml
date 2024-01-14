@@ -1,0 +1,3 @@
+projects:
+  - name: my-first-app
+    dir: app-one
